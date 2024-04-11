@@ -36,7 +36,12 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Listening to 
+`🌐` ・Bot: SĘDZIA"];
+`⏱`・Aktywny od: <t:1710147600:R>
+`🔧`・Developer: 66viksikx_
+──────────────────────
+`📌` discord partnerski: https://discord.gg/FSzStgqG
 
 
 let currentIndex = 0;
